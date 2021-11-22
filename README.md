@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/Younus-Saberi/Younus-Saberi/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/Munazirul/Munazirul/blob/master/hacker-banner-01.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
