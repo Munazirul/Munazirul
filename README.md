@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on hacking
 - 🤔 I’m looking for help with OpenSource
 - 💬 Ask me about cyber security
-- 📫 How to reach me:[Twitter](https://twitter.com/munair_4)
+- 📫 How to reach me:[Twitter](https://twitter.com/munazir_4)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
